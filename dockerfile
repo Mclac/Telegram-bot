@@ -7,5 +7,5 @@ RUN pip install -r /tmp/requirements.txt
 WORKDIR /app
 
 
-CMD ["python", "-m", "Telegram-bot"]
+CMD ["python", "-m", "chat-Telegram-bot"]
 
